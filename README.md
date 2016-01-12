@@ -86,13 +86,11 @@
 
 #### 2.3.2 运行
 
-```js
 1. 双击Miro.jar，运行可视化服务程序
 2. 复制Miro面板上显示的IP地址
 3. 双击Minet.jar，运行客户端程序
 4. 粘贴复制的IP地址
 5. 选择登陆或者注册
-```
 
 #### 2.3.3 部署
 
@@ -244,6 +242,12 @@ git地址：https://github.com/wujr5/computer-network-project
 
 ### 7.2 景涛
 
+由于计算机网络是通过小组分工来实现，因此每个人在project中实现的部分也不一样。我负责的部分是MMProtocol在服务端的实现，也就是server的实现。在计算机网络的层次结构应该算是应用层的实现。同时，也需要涉及到应用层到传输层的信息交换。
+
+在实现的过程中，我发现服务器本身是较好实现的，其中需要注意，服务器向数据库进行读取数据时，需要实时读取更新到的最新数据，体现到具体功能上就是，在界面中，用户应该能实时获取到当时在线的用户和用户的相关信息。因此服务器需要每个一段时间刷新服务器中的内容，不断从底层数据库中获取相关信息。
+
+另外，由于此次project是小组分工，虽然每个人完成某一部分可以大大减少某一个的工作量，但是，这样也带来了其他的弊端。例如，组内不能很好地协调每个层次之间的关系与协议等等。这些内容都得在具体实验完成之前与小组成员确定下来。当然，虽然我做的是某一部分内容，其他人所做的我也应该有所了解。如上面说的数据库，再例如，客户端与服务器之间的通信，用何种数据协议进行传输。还有，当数据从服务器传送到运输层，我们的socket接口应该怎么设计才能与对应的传输层进行有效通信等等。这些都是需要我们考虑的。因此，即使我做的是某一部分内容，我也应该尽力去了解整个项目中，需要关心每个人所做的内容对于我自己的部分来说是否有更高的要求。
+
 ### 7.3 邱永臣
 
 ### 7.4 周基源
@@ -302,3 +306,28 @@ git地址：https://github.com/wujr5/computer-network-project
 5. 每个小组成员的总结：**（100%）**
 6. in-group assessment：**（100%）**
 7. (Optional)附加作业：**（100%）**
+
+## 11 Self Grade
+
+**Basic points**
+
+* Protocol design. (10 points) **(100%)**
+* Finish basic function correctly (w/o error). (60 points) **(100%)**
+* On time. (10 points) **(100%)**
+* Documents, codes, presentation. (20 points) **(100%)** 
+	* votes **(0%)**
+	* in-group assessment **(100%)**
+
+### Total(we think): 90-100 pts
+
+**Bonus points: 10 at most.**
+
+* Use top Library: Swing. (+2) **(YES)**
+* Use github for version control: [computer-network-project](https://github.com/wujr5/computer-network-project) (+2) **(YES)**
+* Creative or difficulty: we think yes. (+2) **(YES)**
+* Extra functions implementation: (+2) **(YES)**
+* Friendly GUI: we think yes. (+2) **(YES)**
+* Apply advanced design pattern: 分成六个逻辑层进行开发 (+2) **(YES)**
+* Excellent Presentation: (+2) **(NO)**
+
+### Total(we think): 10 pts
