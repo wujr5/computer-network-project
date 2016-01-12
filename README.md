@@ -318,7 +318,7 @@ git地址：https://github.com/wujr5/computer-network-project
 	* votes **(0%)**
 	* in-group assessment **(100%)**
 
-### Total(we think): 90-100 pts
+> ### Total(we think): 90-100 pts
 
 **Bonus points: 10 at most.**
 
@@ -330,4 +330,4 @@ git地址：https://github.com/wujr5/computer-network-project
 * Apply advanced design pattern: 分成六个逻辑层进行开发 (+2) **(YES)**
 * Excellent Presentation: (+2) **(NO)**
 
-### Total(we think): 10 pts
+> ### Total(we think): 10 pts
