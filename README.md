@@ -213,13 +213,14 @@ git地址：https://github.com/wujr5/computer-network-project
 
 ![](http://ww2.sinaimg.cn/large/ed796d65gw1ezwk9qjjiuj21er0u0wi5.jpg)
 
-观看：[展示视频]()
+观看：[展示视频](http://v.qq.com/page/r/e/b/r01803oaneb.html)
+
 
 部署视频：
 
 ![](http://ww1.sinaimg.cn/large/ed796d65gw1ezwka3wlkoj21br0u07cy.jpg)
 
-观看：[部署视频]()
+观看：[部署视频](http://v.qq.com/page/r/e/b/r01803oaneb.html)
 
 ### 7 每个小组成员的总结
 
