@@ -309,7 +309,7 @@ git地址：https://github.com/wujr5/computer-network-project
 
 ## 11 Self Grade
 
-**Basic points**
+### 11.1 Basic points
 
 * Protocol design. (10 points) **(100%)**
 * Finish basic function correctly (w/o error). (60 points) **(100%)**
@@ -318,9 +318,9 @@ git地址：https://github.com/wujr5/computer-network-project
 	* votes **(0%)**
 	* in-group assessment **(100%)**
 
-> ### Total(we think): 90-100 pts
+> #### Total(we think): 90-100 pts
 
-**Bonus points: 10 at most.**
+### 11.2 Bonus points: 10 at most
 
 * Use top Library: Swing. (+2) **(YES)**
 * Use github for version control: [computer-network-project](https://github.com/wujr5/computer-network-project) (+2) **(YES)**
@@ -330,4 +330,4 @@ git地址：https://github.com/wujr5/computer-network-project
 * Apply advanced design pattern: 分成六个逻辑层进行开发 (+2) **(YES)**
 * Excellent Presentation: (+2) **(NO)**
 
-> ### Total(we think): 10 pts
+> #### Total(we think): 10 pts
