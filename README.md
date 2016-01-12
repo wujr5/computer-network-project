@@ -75,7 +75,7 @@
 **屏幕共享**
 
 ![](http://ww2.sinaimg.cn/large/ed796d65gw1ezwcg9ff8aj20x80oy412.jpg)
-![](http://ww4.sinaimg.cn/large/ed796d65gw1ezwcgn847cj20xk0u0qae.jpg)
+![](http://ww1.sinaimg.cn/large/ed796d65gw1ezwfrfnj73j21hc0u0to3.jpg)
 
 ### 2.3 可执行文件下载、运行、部署、贡献
 
