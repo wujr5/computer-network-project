@@ -1,0 +1,26 @@
+package Protocol;
+
+public enum ProtocolType {
+  REQUEST_ONLINE_USER_LIST, // 请求在线用户信息
+  REQUEST_GROUP_LIST, // 请求群组信息
+  REQUEST_ONLINE_OR_OFFLINE, // 上线下线请求
+  REQUEST_SHARE_SCREEN, // 共享屏幕请求
+  
+  INFO_SHARE_SCREEN_SHUTDOWN, // 关闭屏幕共享连接
+  
+  SENDTO_UNREADED_CHATTING_ITEM, // 发送未读信息
+  SENDTO_PERSONAL_CHATTING_ITEM, // 发送个人信息，P2P通信
+  SENDTO_REGISTER, // 注册请求
+  SENDTO_LOGIN, // 登录请求
+  SENDTO_LOGOUT, // 下线请求
+  SENDTO_NEW_GROUP_CHATTING, // 新建群组
+  
+  RESPONSE_REGISTER, // 注册响应
+  RESPONSE_LOGIN, // 登录响应
+  RESPONSE_ONLINE_USER_LIST, // 在线用户列表响应
+  RESPONSE_SHARE_SCREEN,
+  
+  BROADCAST_USER_ONLINE_OR_OFFLIE, // 广播消息：用户上线或者下线
+  BROADCAST_NEW_GROUP,
+  BROADCAST_GROUP_CHATTING_RECORD // 广播信息：群聊
+}
